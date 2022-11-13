@@ -1,6 +1,8 @@
-export const tabWidth = 4;
-export const printWidth = 80;
-export const proseWrap = "never";
-export const trailingComma = "all";
-export const singleQuote = true;
-export const semi = true;
+module.exports = {
+    tabWidth: 4,
+    printWidth: 80,
+    proseWrap: "never",
+    trailingComma:  "all",
+    singleQuote:true,
+    semi:true
+  };
